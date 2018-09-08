@@ -17,7 +17,7 @@
 
 更新日期2017-11-07
 
-1、项目整合redis存储，shiro可使用redisSession可使用于集群访问
+1、项目整合redis存储，shiro可使用redisSession可使用于集群访问.
 
 2、项目增加jwt模式
 
